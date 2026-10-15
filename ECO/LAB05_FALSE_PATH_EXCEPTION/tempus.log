@@ -1,0 +1,15 @@
+
+Cadence Tempus(TM) Timing Solution.
+Copyright 2022 Cadence Design Systems, Inc. All rights reserved worldwide.
+
+Version:	v22.11-s001_1, built Fri Sep 16 15:45:21 PDT 2022
+Options:	scripts/01_run_fail.tcl 
+Date:		Thu Oct 15 17:39:11 2026
+Host:		cad312vitcc.vit.ac.in (x86_64 w/Linux 4.18.0-553.150.1.el8_10.x86_64) (16cores*64cpus*INTEL(R) XEON(R) GOLD 6526Y 38400KB)
+OS:		Red Hat Enterprise Linux release 8.10 (Ootpa)
+
+License:
+		[17:39:11.328626] Configured Lic search path (21.01-s002): 5281@14.139.1.126:1717@14.139.1.126
+
+**ERROR: (IMPLIC-68):	Unknown argument: scripts/01_run_fail.tcl.
+	Run "tempus -help" for valid option/argument.

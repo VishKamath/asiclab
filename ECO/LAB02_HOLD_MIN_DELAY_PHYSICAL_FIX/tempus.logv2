@@ -1,0 +1,15 @@
+[10/15 17:35:15      0s] 
+[10/15 17:35:15      0s] Cadence Tempus(TM) Timing Solution.
+[10/15 17:35:15      0s] Copyright 2022 Cadence Design Systems, Inc. All rights reserved worldwide.
+[10/15 17:35:15      0s] 
+[10/15 17:35:15      0s] Version:	v22.11-s001_1, built Fri Sep 16 15:45:21 PDT 2022
+[10/15 17:35:15      0s] Options:	-files scripts/0 
+[10/15 17:35:15      0s] Date:		Thu Oct 15 17:35:15 2026
+[10/15 17:35:15      0s] Host:		cad312vitcc.vit.ac.in (x86_64 w/Linux 4.18.0-553.150.1.el8_10.x86_64) (16cores*64cpus*INTEL(R) XEON(R) GOLD 6526Y 38400KB)
+[10/15 17:35:15      0s] OS:		Red Hat Enterprise Linux release 8.10 (Ootpa)
+[10/15 17:35:15      0s] 
+[10/15 17:35:15      0s] License:
+[10/15 17:35:15      0s] 		[17:35:15.328626] Configured Lic search path (21.01-s002): 5281@14.139.1.126:1717@14.139.1.126
+
+[10/15 17:35:16      0s] 		tpsxl	Tempus Timing Signoff Solution XL	22.1	checkout succeeded
+[10/15 17:35:16      0s] 		16 CPU jobs allowed with the current license(s). Use set_multi_cpu_usage to set your required CPU count.
